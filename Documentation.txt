@@ -1,0 +1,18 @@
+DESCRPTION:
+This folder contains a HTML file and a CSS file and few of text files. Javascript is included in the HTML itself. 
+This is basically a sms staregy for the daily checkings and usages.
+So it starts with a navigation bar followed by the heading and the icons for denoting the usage, which follows by a graph depicts the usage of several items.
+Then it was followed by the export option and the data on a day to day analysis.
+
+BOOTSTRAP VERSION:
+Bootstrap 4.0.0
+
+STEPS TO VIEW THE WEBPAGE:
+1.Click on bootstrap.html so the webpage opens in the browser.
+so that you can access the webpage.
+
+WORD OF THANKS:
+Thankyou for giving me a oppurtunity to prove myself.
+
+COPYRIGHTS:
+Created by Mounika.

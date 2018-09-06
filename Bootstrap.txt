@@ -1,0 +1,46 @@
+BOOTSTRAP JUMBOTRON:
+		It is a highlighting box for writing some special messages or important
+things like remainders, notes etc. 
+
+USES OF JUMBOTRON:
+1.Lightweight, flexible
+2.Creates a div container, which creates a special higlighting box.
+3.It creates 'h1' heading and a 200px of normal paragraph tags.
+
+NAVIGATION BAR:
+		A navigation bar(basically navigates us to the main elements)which is placed on top of the web page. It contains nav elements like login, register, search, menu, help,drop downs etc which navigates us to the particular elements. When a user clicks the corresponding buttons it shows up the content.
+
+CREATING NAVIGATION ELEMENTS(TOGGLE NAVBAR):
+1.Adding the toggle buttons:
+		Creating a class with default navbar options(class="navbar navabr-default").
+
+2.Adding a nav bar header:
+			Creates a nav bar, which is basically a long bar on top(header).
+
+3.Adding attributes:
+			Adding attributes like type(button), classes(navbar and toggles functionalities), data toggle(collapses with the range), data-target(targets the data to be inserted in the nav bar), aria-expanded(optional where we can choose either true or false).
+
+4.Adding nav bar buttons and menu icon:
+			Adding some of the button elements which takes the name of the particular items like login, register etc. Adding the span elements using icon-bar which is used for mobile menu icons. Also arranges buttons either to left side or right side.
+
+5.Making the nav toggable:
+			Here comes the main frame usage of ul(unordered list) with id , name value specified. So it shows the icons, menus drop down etc.
+
+CAROUSEL PLUGIN:
+			It is a component used for the cyclic arrangements of elements like images(like a slideshow).Plugins can be inserted normally.
+
+USE OF CAROUSEL PLUGIN:
+1.It is having many attributes like outermost div(outside division), indicators(specifies which side to go either right or left), wrapper(Content of ecah slide will be in this attribute).
+2.They don’t automatically normalize slide dimensions. As such, you may need to use additional utilities or custom styles to appropriately size content
+3.They support previous/next controls and indicators, they’re not explicitly required.
+
+DISPLAY ON MOBILE PHONES:
+1. First important thing is meta tag(<meta name="viewport" content="width=device-width, initial-scale=1">). This scales or resizes into the mobile screen level.
+2.Screen maximum width must be 320px or 640px and minimum was 320px.
+3.By linking these three stylesheets 
+1. <link rel="stylesheet" type="text/css" media="screen and (max-width: 360px)" href="portrait.css">
+2. <link rel="stylesheet" type="text/css" media="screen and (min-width: 361px) and (max-width: 480px)" href="landscape.css">
+3. <link rel="stylesheet" type="text/css" media="screen and (min-width: 481px)" href="desktop.css">
+
+		
+

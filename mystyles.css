@@ -1,0 +1,13 @@
+.btn-glyphicon { padding:8px; background:#ffffff; margin-right:4px; }
+.icon-btn { padding: 1px 15px 3px 2px; border-radius:50px;}
+.subtitle {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.padding20 {
+    padding:20px;
+}
+url('https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css')
+url('https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css
+')
